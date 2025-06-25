@@ -1,4 +1,4 @@
-# HI this a new line for a git push 
+# GRAFICO DE LINEAS
 
 import matplotlib.pyplot as plt
 
