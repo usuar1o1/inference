@@ -1,3 +1,7 @@
+#IMPORTACION DE LAS LIBRERÍAS
+# USAR EL COMANDO PIP PARA PODER INSTALAR ESAS LIBRERIAS 
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 

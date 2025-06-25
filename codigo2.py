@@ -1,10 +1,11 @@
 # GRAFICO DE LINEAS
+# LINEA DESDE LOCAL 
 
 import matplotlib.pyplot as plt
 
 # Datos para graficar
-x = [1, 2, 3, 4, 5]
-y = [2, 3, 5, 7, 11]
+x = [1, 2, 300000000000000, 4, 500000000000000]
+y = [2, 3, 5, 700000000, 110000000000000000000]
 
 # Crear la gráfica
 plt.plot(x, y)
