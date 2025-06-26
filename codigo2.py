@@ -17,3 +17,18 @@ plt.ylabel("Eje Y")
 
 # Mostrar la gráfica
 plt.show()
+
+#grafica NUEVA de pastel 
+# Datos
+etiquetas = ['Manzanas', 'Bananas', 'Cerezas', 'Uvas']
+valores = [30, 25, 20, 25]
+colores = ['red', 'yellow', 'pink', 'purple']
+
+# Crear gráfica de pastel
+plt.figure(figsize=(6, 6))
+plt.pie(valores, labels=etiquetas, colors=colores, autopct='%1.1f%%', startangle=90)
+plt.title('Frutas en inventario')
+plt.axis('equal')  # Mantiene el círculo perfecto
+
+# Mostrar gráfica
+plt.show()
