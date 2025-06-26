@@ -17,3 +17,8 @@ plt.ylabel("Eje Y")
 
 # Mostrar la gráfica
 plt.show()
+
+#impresión de una suma 
+a=2234
+b= 234
+print("hola mundo como estás, yo estoy muy bien como tu estas ahora ?")

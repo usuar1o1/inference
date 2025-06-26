@@ -1,0 +1,5 @@
+# archivos temporales de VIM
+
+*.swp
+*.swn
+*.swo
